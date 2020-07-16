@@ -14,8 +14,8 @@ import java.util.*
 
 class MainActivity : AppCompatActivity() {
 
-    val CITY: String = "patna,in"
-    val API: String = "272ed1fb98c2cd970bfc9fb6654c8a14"
+    val CITY: String = "enter your city here"
+    val API: String = "provide your own weather api here"
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
